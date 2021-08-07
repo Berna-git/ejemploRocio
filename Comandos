@@ -1,1 +1,24 @@
 
+Tener una carpeta
+git init -> indicar que ese folder va a ser un repositorio de GIT
+git clone URL -> crear una copia del repositorio en nuestro folder
+git status -> muestra los archivos que tienen cambios y no se han publicado al repositorio
+git add ARCHIVO -> preparar los archivos para ser publicados en la version
+git add . -> preparar todos los archivos para ser publicados en la version 
+git commit -m "DESCRIPCION DE LA VERSION" -> crear una version que esta lista para ser publicada
+git commit --amend -> agrega los cambios a una version que ya este creada pero este pendiente de ser publicada
+git push origin BRANCH -> publica la version en el servidor
+git checkout BRANCH -> cambiar de branch
+git checkout -b BRANCH -> crear una branch y cambiar a esa branch
+git stash -> eliminar cambios locales
+git pull origin BRANCH -> Descargar los cambios 
+git fetch -> para traer cambios y nuevas branchs
+te dejo un video para que lo veas bien es muy util y es uno de los comandos mas usados
+https://www.youtube.com/watch?v=0QpBlMBDR68&t=348s&ab_channel=DECODEProgramaci%C3%B3n
+
+
+
+
+---------------
+cd -> navegar entre carpetas
+dir WINDOWS / ls UNIX -> Ver lo que hay en una carpeta
